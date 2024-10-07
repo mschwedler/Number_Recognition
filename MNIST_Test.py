@@ -51,7 +51,7 @@ def load_custom_image(file_path):
         return img_array.reshape(1, 28, 28)
 
 # Eigenes Bild testen
-custom_image_path = '1.png'  # Pfad zu Ihrem eigenen Bild
+custom_image_path = '............'  # Pfad zu Ihrem eigenen Bild
 if os.path.exists(custom_image_path):
     try:
         custom_image = load_custom_image(custom_image_path)
