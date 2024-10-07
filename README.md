@@ -1,4 +1,4 @@
-# Number_Recognition
+# Number-Recognition
 A short Python-Script for number recognition with the MNIST-Dataset
 
 With this Script it is possible to recognize Numbers trained with the MNIST-Dataset.
